@@ -1,4 +1,4 @@
-package com.codingwithme.notesapp.entities
+package com.divyanshu.notesapp.entities
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

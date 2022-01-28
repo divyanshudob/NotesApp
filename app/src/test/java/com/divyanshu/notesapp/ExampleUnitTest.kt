@@ -1,4 +1,4 @@
-package com.codingwithme.notesapp
+package com.divyanshu.notesapp
 
 import org.junit.Test
 
